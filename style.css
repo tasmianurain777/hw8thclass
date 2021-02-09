@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    
+
+}
+.wrapper{
+
+}
+.logo{}
+.manu{
+   
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    
+
+
+}
+ ul li a{
+    text-decoration: none;
+ }
